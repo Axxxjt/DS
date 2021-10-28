@@ -1,2 +1,2 @@
 # DS
-There are the exam of the DS for Axxxjit.
+There are the exam of the DS for Axxxjit's learning.
